@@ -145,9 +145,6 @@ class MyFrame1(wx.Frame):
 
     def start(self, event):
         try:
-            # print(STREAMS)
-            # value = STREAMS[self.choice.GetSelection()]
-            # print(value)
             yt = YouTube(self.lnk_txtctrl.GetValue())
             stream = yt.streams.get_by_itag(int(STREAMS[self.choice.GetSelection()].
                                                 split('\"')[1])).download(output_path=self.dir.GetPath())
