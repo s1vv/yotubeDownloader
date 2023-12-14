@@ -156,7 +156,6 @@ class MyFrame1(wx.Frame):
 
         done = Done(None)
         done.ShowModal()
-# https://youtube.com/playlist?list=PLA0M1Bcd0w8wd5aJ8uUgrFmK_wyqg97j9&si=7-rVoGy43aXtcoi8
 
 class DialogInfo(wx.Dialog):
 
