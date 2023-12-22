@@ -1,27 +1,2 @@
-altgraph==0.17.4
-auto-py-to-exe==2.41.0
-bottle==0.12.25
-bottle-websocket==0.2.9
-certifi==2023.7.22
-charset-normalizer==3.2.0
-Eel==0.16.0
-future==0.18.3
-gevent==23.9.1
-gevent-websocket==0.10.1
-greenlet==3.0.0
-idna==3.4
-numpy==1.26.0
-packaging==23.2
-Pillow==10.0.1
-pygame==2.5.2
-pyinstaller==6.1.0
-pyinstaller-hooks-contrib==2023.10
-pyparsing==3.1.1
 pytube==15.0.0
-six==1.16.0
 tqdm==4.66.1
-urllib3==2.0.5
-whichcraft==0.6.1
-wxPython @ file:///home/s1v/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/wxPython-4.2.1-cp310-cp310-linux_x86_64.whl#sha256=ccd4591da643044ca727f2ead781a99680cabbc017e24a8267318fea06ecf4bd
-zope.event==5.0
-zope.interface==6.1
